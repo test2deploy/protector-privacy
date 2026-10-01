@@ -1,3 +1,5 @@
+![Protector Logo](./icon128.png)
+
 # Protector – Website Blocker Privacy Policy
 
 **Publisher:** Dean Design & Software  
